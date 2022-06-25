@@ -1,0 +1,47 @@
+body {
+    background-image: url(./resources/images/firework.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+p, h1 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    color: black;
+    font-family: 'Luckiest Guy', cursive;
+    border: 2px solid coral;
+    border-radius: 20px;
+    background-image: url(./resources/images/balloons.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90%;
+    margin: 20px auto;
+
+}
+
+p {
+    font-size: 1.2rem;
+    font-weight: 700;
+    font-family: 'Concert One', cursive;
+    border: 2px solid coral;
+    border-radius: 20px;
+    background-image: url(./resources/images/balloons.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90%;
+    color: black;
+    margin: 20px auto;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+    
+}
+
+.carousel {
+    margin: 0 auto;
+}
